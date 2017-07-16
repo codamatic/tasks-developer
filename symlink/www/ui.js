@@ -1,4 +1,1 @@
-{
-  "id" : "copy_folders",
-
-}
+alert("Symlink");
